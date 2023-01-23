@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "5 Tips for Staying Productive While Working from Home",
+      "content": "Working from home can be a great way to increase productivity, but it can also be a major distraction. Here are 5 tips for staying productive while working from home: 1. Create a dedicated workspace. 2. Set clear boundaries. 3. Take regular breaks. 4. Prioritize your tasks. 5. Eliminate distractions."
+    },
+    {
+      "id": 2,
+      "title": "The Importance of Self-Care in the Digital Age",
+      "content": "In today's digital age, it's easy to get caught up in the constant barrage of notifications and messages. But it's important to take a step back and practice self-care. This can include things like setting boundaries with technology, getting enough sleep, and taking time to relax and recharge."
+    },
+    {
+      "id": 3,
+      "title": "The Top 5 Benefits of Yoga",
+      "content": "Yoga is a practice that has been around for thousands of years and has many benefits. Some of the top benefits include: 1. Increased flexibility and balance. 2. Improved cardiovascular health. 3. Reduced stress and anxiety. 4. Better sleep. 5. Increased focus and concentration."
+    },
+    {
+      "id": 5,
+      "title": "The Importance of Diversity and Inclusion in the Workplace",
+      "content": "Diversity and inclusion in the workplace is important because it leads to a more productive and innovative environment. When employees feel like they belong and are valued, they are more likely to be engaged and motivated. Additionally, a diverse workforce better reflects the diversity of the customers and clients that the company serves."
+    }
+  ]
+}
